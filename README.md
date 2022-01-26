@@ -3,3 +3,6 @@
 ## Simple application
 
 Simple application calculating Wind peak velocity pressure in Poland acc. to EC1, hence the application is in Polish. 
+
+ - Python 
+ - Tkinter GUI
